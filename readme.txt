@@ -1,6 +1,6 @@
-=== Dev To Plugin ===
+=== Dev 2 Posts Plugin ===
 Contributors: Pixium Digital Pte Ltd
-Tags: dev.to, News Integrator, 
+Tags: dev.to, API Integrator, Posts
 Requires at least: 4.5
 Tested up to: 4.7.4
 Stable tag: 1.0

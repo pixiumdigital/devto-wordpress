@@ -1,0 +1,90 @@
+.settings_page_dev-to #wpcontent {
+    padding: 0;
+}
+
+.dev-to-wrap {
+    background: white;
+}
+
+.dev-to-wrap .dev-to-header {
+    padding: 1rem;
+    background-color: black;
+}
+
+.dev-to-wrap .dev-to-header h1 {
+    margin: 0 0 1rem;
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.dev-to-wrap .dev-to-header h3 {
+    color: white;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 300;
+    margin: 0;
+}
+
+.dev-to-wrap .dev-to-header a {
+    font-weight: bold;
+    color: #848484;
+}
+
+
+.dev-to-wrap form {
+    padding: 1rem;
+}
+
+.dev-to-wrap .form-table tr.dev-to-username {
+    transition: 0.2s ease all;
+}
+
+.dev-to-wrap .form-table .dev-to-username.hide {
+    opacity: 0;
+    visibility: collapse;
+}
+
+.dev-to-wrap .form-table tr .postbox {
+    padding: 0 !important;
+    border: 0;
+    box-shadow: none;
+}
+
+.dev-to-wrap .form-table tr .postbox input, .dev-to-wrap .form-table tr .postbox select {
+    border-radius: 3px;
+    border: 1px solid transparent;
+    border-top: none;
+    border-bottom: 1px solid #DDD;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.39), 0 -1px 1px #FFF, 0 1px 0 #FFF;
+    background-color: rgb(241, 241, 241);
+    padding: 0.3rem 0.5rem;
+}
+
+.dev-to-wrap .form-table tr .postbox select {
+    width: 25%;
+}
+
+.dev-to-wrap .detect-notice {
+    background-color: #088008;
+    padding-top: 5px;
+    margin-bottom: 2rem;
+}
+
+.dev-to-wrap .detect-msg {
+    padding: 1rem;
+    margin: 0;
+    background-color: white;
+    color: black;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    border: 1px solid #ccd0d4;
+}
+
+.dev-to-wrap .shortcode-instruction {
+    padding: 0 1rem 2rem;  
+}
+
+.dev-to-wrap .shortcode-instruction p a{
+    color: #777777;
+    font-weight: bold;
+}
